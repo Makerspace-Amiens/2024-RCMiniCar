@@ -3,7 +3,7 @@
 
 ## Bienvenue sur Notre Projet
 
-Ce repository est le cœur de notre projet. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
+Bienvenue dans la documentation du projet de la **Voiture RC**. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
 
 ### Contenu du Repository
 
