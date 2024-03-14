@@ -5,13 +5,16 @@
 
 Bienvenue dans la documentation du projet de la **Voiture RC**. Ici, vous trouverez toutes les ressources nécessaires pour comprendre, utiliser et contribuer à notre projet.
 
-](![image](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/158062714/47e4dbdb-cc69-4ec4-a9d9-4a0eb52126ed)
+![image](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/158062714/47e4dbdb-cc69-4ec4-a9d9-4a0eb52126ed)
 
 
-### Contenu du Repository
+### Ressources
 
-- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`. Voir le site de doc associé. 
-- **project :** Toutes les sources de notre projet.
+- **Documentation :** Toutes les documentations techniques et guides d'utilisation sont disponibles dans le dossier `docs`.
+  Vous y retrouverez les objectifs, la conception et les choix techniques. 
+
+
+- **project :** Toutes les sources de notre projet sont visbles dans la rubrique `docs` 
 
 ### Comment Utiliser ce Repository ?
 
