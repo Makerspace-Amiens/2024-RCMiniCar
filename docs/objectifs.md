@@ -24,12 +24,68 @@ Ainsi, le projet de création d'une voiture RC représente une opportunité pass
 
 ## Objectifs du Projet
 
+-apprentissage sur la mécanique, l'electronique et la programmation d'une voiture RC
 -conception 3D de la voiture RC
 -Choix des bons composants (batteries, moteur, suppension...)
--créer une carte éléctrique entre le moteur et la 
+-créer une carte éléctrique entre le moteur et la carte esp32
+-avoir une voiture fonctionnelle
+-piloter la voiture avec notre téléphone en bluetooth
 
 # Existant
 
 
 # Cahier des Charges
+
+Cahier des Charges pour la Création d'une Voiture Télécommandée (RC)
+
+1. Introduction
+
+Objectif du document: Fournir une vue d'ensemble et des spécifications détaillées pour la conception et la réalisation du projet "Voiture RC".
+Contexte: Création d'une voiture RC en projet de 3 année de cycle ingénieur.
+
+
+2. Description du Projet
+
+Objectifs:
+Concevoir une voiture RC fonctionnelle
+Utiliser les logiciels de conception 3D pour créer le chassis de la voiture.
+intégrer les composants au chassis
+piloter la voiture avec son smartphone
+
+3. Spécifications Techniques
+
+Conception et Dimensions: Longueur de 45 cm, largeur de 20 cm, châssis en 3D.
+Système de Propulsion: Moteur électrique brushless 2500kV, transmission 4WD.
+Contrôle et Communication: Radiocommande 2.4GHz, application mobile via Bluetooth pour les réglages avancés.
+Alimentation: Batterie LiPo 7.4V 5000mAh, autonomie de 30 minutes, recharge rapide en 1 heure.
+Suspension et Direction: Suspension indépendante, direction assistée électroniquement pour une maniabilité accrue.
+
+4. Critères de Conception
+
+Personnalisation: Modules interchangeables pour le moteur et la batterie, application mobile pour la personnalisation des réglages de conduite.
+
+
+5. Plan de Développement
+
+Phases du Projet: Conception, Développement du prototype, Tests.
+Calendrier: Début du projet en Février 2024 fin en juin 2024
+Ressources: Équipe de 3 étudiant ingénieurs, logiciels de CAO, internet...
+Budget: Estimé à 100 € pour le développement complet du projet.
+
+6. Tests et Validation
+
+Protocole de Tests: Tests de performance, tests de résistance (chocs, usure), tests d'usage (contrôle).
+Critères de Validation: Atteindre à une voiture fonctionnelle et pilotée
+
+7. Livrables
+
+Rapport de Projet: Analyse des performances, retour des étudiants, améliorations, défauts
+
+8. Gestion de Projet
+
+   Jules Mailly: conception du chassis 3D
+
+
+
+
 
