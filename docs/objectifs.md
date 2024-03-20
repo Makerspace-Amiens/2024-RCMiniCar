@@ -5,6 +5,10 @@ title: Objectifs du projet
 ---
 
 # Introduction
+l'innovation et la technologie continuent de s'améliorer, nous allons vous présenter nos objectifs de la réalisation d'une voiture télécommandée conçue de A à Z. Ce projet incarne des mois de recherche, de conception et de tests, par une passion pour l'ingénierie et une volonté de la réussite finale du projet.
+
+Dans les paragraphes suivants, nous allons détailler le contexte, les objectifs et le cahiers de charges du projet.
+
 
 
 
@@ -20,7 +24,9 @@ Ainsi, le projet de création d'une voiture RC représente une opportunité pass
 
 ## Objectifs du Projet
 
-
+-conception 3D de la voiture RC
+-Choix des bons composants (batteries, moteur, suppension...)
+-créer une carte éléctrique entre le moteur et la 
 
 # Existant
 
