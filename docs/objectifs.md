@@ -24,12 +24,12 @@ Ainsi, le projet de création d'une voiture RC représente une opportunité pass
 
 ## Objectifs du Projet
 
--apprentissage sur la mécanique, l'electronique et la programmation d'une voiture RC
--conception 3D de la voiture RC
--Choix des bons composants (batteries, moteur, suppension...)
--créer une carte éléctrique entre le moteur et la carte esp32
--avoir une voiture fonctionnelle
--piloter la voiture avec notre téléphone en bluetooth
+-apprentissage sur la mécanique, l'electronique et la programmation d'une voiture RC.
+-conception 3D de la voiture RC.
+-Choix des bons composants (batteries, moteur, suppension...).
+-créer une carte éléctrique entre le moteur et la carte esp32.
+-avoir une voiture fonctionnelle.
+-piloter la voiture avec notre téléphone en bluetooth.
 
 # Existant
 
