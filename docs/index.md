@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue dans la documentation du projet Voiture RC. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-!https://www.google.com/url?sa=i&url=https%3A%2F%2Fcults3d.com%2Ffr%2Fmod%25C3%25A8le-3d%2Fjeu%2Fdiy-rc-street-racing-car-one-week-classroom-project&psig=AOvVaw1IkVFyv_RNdm1LekivW-mY&ust=1711702545065000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDctIPLloUDFQAAAAAdAAAAABAJ
+![image](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/158062714/3be488f0-8227-4bb7-93fd-3329323fd735)
 
 ## À propos du Projet
 
