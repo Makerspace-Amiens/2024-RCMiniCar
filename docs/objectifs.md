@@ -50,19 +50,22 @@ Objectifs:
 Concevoir une voiture RC fonctionnelle
 Utiliser les logiciels de conception 3D pour créer le chassis de la voiture.
 intégrer les composants au chassis
+créer une carte éléctronique reliant tous les composants
 piloter la voiture avec son smartphone
 
 3. Spécifications Techniques
 
-Conception et Dimensions: Longueur de 45 cm, largeur de 20 cm, châssis en 3D.
-Système de Propulsion: Moteur électrique brushless 2500kV, transmission 4WD.
-Contrôle et Communication: Radiocommande 2.4GHz, application mobile via Bluetooth pour les réglages avancés.
+Conception et Dimensions: Longueur de 8cm, largeur de 5 cm, châssis en 3D.
+Système de Propulsion: 2 Moteuréducteur 3V 500 rpm, vitesse de 1,5 m/s.
+Contrôle et Communication: carte ESP23, application mobile via Bluetooth ou wifi pour les réglages avancés sur smarphone.
+Utilisation d'un driver
 Alimentation: Batterie LiPo 7.4V 5000mAh, autonomie de 30 minutes, recharge rapide en 1 heure.
-Suspension et Direction: Suspension indépendante, direction assistée électroniquement pour une maniabilité accrue.
+Suspension et Direction: Suspension indépendante, direction assistée électroniquement par un servo-moteur.
 
 4. Critères de Conception
 
-Personnalisation: Modules interchangeables pour le moteur et la batterie, application mobile pour la personnalisation des réglages de conduite.
+Personnalisation: Carte électronique comme base de la voiture, création de roues de 3cm de diamètre.
+                  élaborer un coque de protection de la voiture RC.
 
 
 5. Plan de Développement
@@ -70,7 +73,7 @@ Personnalisation: Modules interchangeables pour le moteur et la batterie, applic
 Phases du Projet: Conception, Développement du prototype, Tests.
 Calendrier: Début du projet en Février 2024 fin en juin 2024
 Ressources: Équipe de 3 étudiant ingénieurs, logiciels de CAO, internet...
-Budget: Estimé à 100 € pour le développement complet du projet.
+Budget: Estimé à 150 € pour le développement complet du projet.
 
 6. Tests et Validation
 
@@ -79,12 +82,13 @@ Critères de Validation: Atteindre à une voiture fonctionnelle et pilotée
 
 7. Livrables
 
-Rapport de Projet: Analyse des performances, retour des étudiants, améliorations, défauts
+Rapport de Projet: Analyse des performances, retour de notre projet, améliorations, défauts
 
 8. Gestion de Projet
 
    Jules Mailly: conception du chassis 3D
-
+   Thomas Le Pape:
+   Enguerrand Cuif:
 
 
 
