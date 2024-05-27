@@ -27,15 +27,6 @@ Ici vous publierez le poster de votre projet.
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-Si en stockage local : >50mo
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/82e4248a-4efe-40a7-958b-438df72eebfc
 
----
