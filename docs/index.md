@@ -21,9 +21,7 @@ Ce projet résout plusieurs problèmes potentiels : il offre une opportunité d'
 
 ## Poster
 
-Ici vous publierez le poster de votre projet.
-
-![Poster projet](images/poster.jpg)
+![IMG_1017](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/741474cb-6cd5-4ffb-bf1a-8a155a602ffa)
 
 ## Vidéo
 
