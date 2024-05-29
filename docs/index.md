@@ -25,6 +25,4 @@ Ce projet résout plusieurs problèmes potentiels : il offre une opportunité d'
 
 ## Vidéo
 
-
-https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/82e4248a-4efe-40a7-958b-438df72eebfc
-
+<video src="images/vidéo-voiture-rc_IFHrcolE.mp4" controls title="Title" style="width: 100%;"></video>
