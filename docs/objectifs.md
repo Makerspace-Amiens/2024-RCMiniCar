@@ -87,7 +87,9 @@ Rapport de Projet: Analyse des performances, retour de notre projet, améliorati
 8. Gestion de Projet
 
    Jules Mailly: conception du chassis 3D
+
    Thomas Le Pape: conception du pilotage par téléphone 
+
    Enguerrand Cuif: conception crémaillère 
 
 
