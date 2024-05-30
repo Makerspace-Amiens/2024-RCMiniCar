@@ -16,14 +16,14 @@ la conception de la voiture RC est définie.
 Cela inclut :
 
 un Design esthétique : Forme, couleur et motifs.
-Dimension et échelle : Choix de l'échelle en fonction de l'usage donc nous avons choisi un longueur de 10cm, un largeur de 5cm.
+Dimension et échelle : Choix de l'échelle en fonction de l'usage donc nous avons choisi un longueur de 20cm, un largeur de 10cm.
 Matériaux : Sélection des matériaux pour le châssis, batterie, moteur, driver, esp32 ect..
 
 3. Système de propulsion
 
 Le choix du système de propulsion:
 
-Moteurs électriques (plus courants, pour différentes gammes de puissance et de performance). 
+Moteur électriques (plus courants, pour différentes gammes de puissance et de performance). 
 
 Moteurs thermiques (pour les modèles plus spécialisés, offrant une expérience plus authentique mais requérant plus d'entretien).
 Nous avons choisi au final deux motoréducteur de 3V chacun est une vitesse de rotation de 500 rpm conrespondant à notre couple et à la puissance sufisante pour atteindre 1,5m/s.
