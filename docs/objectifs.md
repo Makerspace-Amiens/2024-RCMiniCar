@@ -55,7 +55,7 @@ piloter la voiture avec son smartphone
 
 3. Spécifications Techniques
 
-Conception et Dimensions: Longueur de 8cm, largeur de 5 cm, châssis en 3D.
+Conception et Dimensions: Longueur de 20cm, largeur de 10cm, châssis en 3D.
 Système de Propulsion: 2 Moteuréducteur 3V 500 rpm, vitesse de 1,5 m/s.
 Contrôle et Communication: carte ESP23, application mobile via Bluetooth ou wifi pour les réglages avancés sur smarphone.
 Utilisation d'un driver
@@ -87,8 +87,8 @@ Rapport de Projet: Analyse des performances, retour de notre projet, améliorati
 8. Gestion de Projet
 
    Jules Mailly: conception du chassis 3D
-   Thomas Le Pape:
-   Enguerrand Cuif:
+   Thomas Le Pape: conception du pilotage par téléphone 
+   Enguerrand Cuif: conception crémaillère 
 
 
 
