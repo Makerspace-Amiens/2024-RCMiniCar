@@ -50,7 +50,7 @@ Objectifs:
 Concevoir une voiture RC fonctionnelle
 Utiliser les logiciels de conception 3D pour créer le chassis de la voiture.
 intégrer les composants au chassis
-créer une carte éléctronique reliant tous les composants
+
 piloter la voiture avec son smartphone
 
 3. Spécifications Techniques
@@ -64,9 +64,9 @@ Suspension et Direction: Suspension indépendante, direction assistée électron
 
 4. Critères de Conception
 
-Personnalisation: Carte électronique comme base de la voiture, création de roues de 3cm de diamètre.
-                  élaborer un coque de protection de la voiture RC.
-
+Personnalisation: -Création d'un chassis s'adaptant à tout les composants utilisés. 
+                  -élaborer un coque de protection de la voiture RC.
+                   -Programmer l'ESP32 à partir d'Arduino pour controler notre voiture sur notre téléphone
 
 5. Plan de Développement
 
@@ -77,10 +77,10 @@ Budget: Estimé à 150 € pour le développement complet du projet.
 
 6. Tests et Validation
 
-Protocole de Tests: Tests de performance, tests de résistance (chocs, usure), tests d'usage (contrôle).
+Protocole de Tests: Tests de performance, tests de résistance (chocs, usure), tests d'usage (contrôle, programme).
 Critères de Validation: Atteindre à une voiture fonctionnelle et pilotée
 
-7. Livrables
+7. Modifications
 
 Rapport de Projet: Analyse des performances, retour de notre projet, améliorations, défauts
 
