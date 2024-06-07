@@ -25,8 +25,8 @@ La Structure :
 
 Composée de trois principaux éléments : l'application mobile, le serveur Blynk, et les bibliothèques Blynk sur Arduino.
 L'Application Mobile sert à  l'utilisateur d'interagir avec les appareils.
-Serveur Blynk : Centre de communication entre l'application et les appareils. 
-Bibliothèques Blynk : Fournissent les fonctions nécessaires pour connecter les appareils au serveur Blynk et envoyer/recevoir des données.
+Le Serveur Blynk est un Centre de communication entre l'application et les appareils. 
+La Bibliothèque Blynk Fournisse les fonctions nécessaires pour connecter les appareils au serveur Blynk et envoyer/recevoir des données.
 
 
 Les Avantages de Blynk:
