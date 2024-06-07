@@ -17,6 +17,8 @@ Voici un tableau des matériaux utilisable dans le Maker Space ainsi que leurs c
 | Bois | découpeur laser | très peu onéreux / très rapide | relativement limité au niveau de la forme | 
 
 
+
+
 Ensuite après avoir listé tout les matériaux qui s’offraient à nous, il ne rester plus qu’à choisir selon nos besoins bien spécifiques : 
 
 **Le châssis** 
