@@ -1,4 +1,9 @@
-
+---
+layout: default
+nav_order: 1
+title: Blynk
+parent: Programmation
+---
 # Blynk
 
 Blynk est une plateforme Internet qui nous a permis de contrôler L'ESP32 à distance via l'applications mobile. 
