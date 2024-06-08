@@ -2,6 +2,7 @@
 layout: default
 nav_order: 7
 title: Programmation
+has_children: true
 ---
 # Programmation
 
