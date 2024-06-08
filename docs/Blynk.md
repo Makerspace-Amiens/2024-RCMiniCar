@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blynk
+title: Interface Blynk
 parent: Programmation
 nav_order: 1
 ---
