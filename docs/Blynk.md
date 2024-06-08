@@ -3,7 +3,6 @@ layout: default
 nav_order: 1
 title: Blynk
 parent: Programmation
-nav_order: 1
 ---
 # Blynk
 
