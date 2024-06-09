@@ -36,11 +36,11 @@ Ainsi, le projet de création d'une voiture RC représente une opportunité pass
 
 # Cahier des Charges
 
-Cahier des Charges pour la Création d'une Voiture Télécommandée (RC)
+Cahier des Charges pour la Création d'une Voiture Radio Télécommandée (RC)
 
 1. Introduction
 
-Objectif du document: Fournir une vue d'ensemble et des spécifications détaillées pour la conception et la réalisation du projet "Voiture RC".
+Fournir une vue d'ensemble et des spécifications détaillées pour la conception et la réalisation du projet "Voiture RC".
 Contexte: Création d'une voiture RC en projet de 3 année de cycle ingénieur.
 
 
