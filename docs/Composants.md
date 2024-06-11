@@ -9,6 +9,7 @@ title: Les Composants
 ## Module L298N
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; max-width: 60%;">
+    
     Le module L298N est un pont en H double qui permet de contrôler deux moteurs à courant continu ou un moteur pas à pas.
 
     Les Caractéristiques Techniques du Module L298N sont: Au niveau de l'Alimentation, Nous avons une Tension d'alimentation (Vss) de 5V, une Tension d'alimentation du moteur (Vs) : 5V à 35V
@@ -37,6 +38,7 @@ title: Les Composants
 ## ESP32
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; max-width: 60%;">
+    
     L'ESP32 est une série de microcontrôleurs. Nous l'avons choisi en raison de ses caractéristiques avancées et de sa polyvalence.
 
     Les Caractéristiques Principales
@@ -73,6 +75,7 @@ title: Les Composants
 ## Motoréducteurs
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; max-width: 60%;">
+    
     Un motoréducteur est un dispositif qui combine un moteur électrique avec un réducteur de vitesse. Ce composant est utilisé pour faire déplacer notre voiture RC.
     Le moteur fournit la puissance de rotation initiale.
     Ce sont des moteurs à courant continu (DC).
@@ -88,6 +91,7 @@ title: Les Composants
 ## Servo moteur
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; max-width: 60%;">
+    
     Un servo moteur est un type de moteur électrique qui est spécialement conçu pour permettre un contrôle précis de la position angulaire, de la vitesse et du couple. Notre servo moteur, nous sert pour la direction de notre voiture.
     Il est doté d'un moteur à courant continu (DC), d'un ensemble d'engrenages  permettant un contrôle plus précis des mouvements.
     Un circuit électronique intégré qui reçoit les signaux de commande de l'ESP32 et ajuste la position.
