@@ -30,17 +30,16 @@ Après avoir finalisé la conception, nous avons procédé à l'impression 3D de
 **Composants/Connectique**
 
 Nous avons choisi divers composants pour réaliser cette voiture RC. Tout d'abord, nous avons fait des recherches pour déterminer quels moteurs étaient les plus propices à notre projet. Finalement, nous avons décidé de prendre des motoréducteurs moins encombrants et moins puissants. Ensuite, nous avons pris un ESP32 pour faire la relation entre les composants et nous permettre de le coder et de le contrôler soit par WiFi ou Bluetooth. D'autre part, pour faire la relation entre l'ESP32 et les motoréducteurs, nous avons pris un driver LN298 qui permet de contrôler les deux moteurs continus. Il peut faire tourner les moteurs à une vitesse continue ou en PWM. De plus, il inclut des diodes pour protéger le circuit, des résistances de rappel et un dissipateur de chaleur en cas de forte charge. Enfin, pour la direction de la voiture, nous avons pris un servo-moteur qui contribue à faire glisser la crémaillère de droite vers la gauche.
-
-<model-viewer id="viewer" alt="Modèle 3D des moteurs" src="images/moteur RC.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
-</model-viewer>
-<model-viewer id="viewer" alt="Modèle 3D du driver" src="images/Driver.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
-</model-viewer>
-<model-viewer id="viewer" alt="Modèle 3D de l'ESP32" src="images/ESP32.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
-</model-viewer>
-<model-viewer id="viewer" alt="Modèle 3D du servomoteur" src="images/Servo.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
-</model-viewer>
-
-
 Pour la connectivité, nous avons utilisé des fils mâle/femelle et femelle/femelle pour connecter les différents composants entre eux. Cela assure une connexion fiable et flexible pour tous les éléments de la voiture RC.
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <model-viewer id="viewer1" alt="Modèle 3D des moteurs" src="images/moteur RC.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 24%; height: 300px;"></model-viewer>
+  <model-viewer id="viewer2" alt="Modèle 3D du driver" src="images/Driver.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 24%; height: 300px;"></model-viewer>
+  <model-viewer id="viewer3" alt="Modèle 3D de l'ESP32" src="images/ESP32.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 24%; height: 300px;"></model-viewer>
+  <model-viewer id="viewer4" alt="Modèle 3D du servomoteur" src="images/Servo.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 24%; height: 300px;"></model-viewer>
+</div>
+
+
+
 
 
