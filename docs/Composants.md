@@ -7,8 +7,11 @@ title: Les Composants
 # Composants
 
 ## Module L298N
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; max-width: 60%;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/4caf6cfc-dca9-463f-9fda-d6230316d020" alt="Module L298N" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
     
     Le module L298N est un pont en H double qui permet de contrôler deux moteurs à courant continu ou un moteur pas à pas.
 
@@ -30,14 +33,14 @@ title: Les Composants
     Il permet d'utiliser des signaux PWM pour contrôler la vitesse des moteurs.
     Il peut être utilisé pour contrôler des moteurs à courant continu, des moteurs pas à pas bipolaires ou unipolaires.
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/4caf6cfc-dca9-463f-9fda-d6230316d020" alt="Module L298N" style="max-width: 100%; height: auto;">
-  </div>
 </div>
 
 ## ESP32
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; max-width: 60%;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/ad03aea4-64e6-4665-afeb-1f5298d81053" alt="ESP32" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
     
     L'ESP32 est une série de microcontrôleurs. Nous l'avons choisi en raison de ses caractéristiques avancées et de sa polyvalence.
 
@@ -67,14 +70,14 @@ title: Les Composants
 
     En résumé, l'ESP32 est un microcontrôleur très polyvalent et puissant, grâce à ses capacités de connectivité sans fil et ses fonctionnalités, il nous a permis de développer notre projet.
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/ad03aea4-64e6-4665-afeb-1f5298d81053" alt="ESP32" style="max-width: 100%; height: auto;">
-  </div>
 </div>
 
 ## Motoréducteurs
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; max-width: 60%;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/f5f1fc59-07f4-4a66-be3b-e9adf92d67cb" alt="Motoréducteurs" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
     
     Un motoréducteur est un dispositif qui combine un moteur électrique avec un réducteur de vitesse. Ce composant est utilisé pour faire déplacer notre voiture RC.
     Le moteur fournit la puissance de rotation initiale.
@@ -83,14 +86,14 @@ title: Les Composants
     Pour le Fonctionnement,
     Le moteur électrique génère une vitesse de rotation élevée mais avec un couple relativement faible. Le réducteur de vitesse, à travers son système d'engrenages, réduit cette vitesse de rotation tout en augmentant le couple. La sortie de cette combinaison est une vitesse de rotation plus basse mais avec un couple plus élevé.
   </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/f5f1fc59-07f4-4a66-be3b-e9adf92d67cb" alt="Motoréducteurs" style="max-width: 100%; height: auto;">
-  </div>
 </div>
 
 ## Servo moteur
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; max-width: 60%;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/433fb176-6166-40e2-983d-1432308893cb" alt="Servo moteur" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
     
     Un servo moteur est un type de moteur électrique qui est spécialement conçu pour permettre un contrôle précis de la position angulaire, de la vitesse et du couple. Notre servo moteur, nous sert pour la direction de notre voiture.
     Il est doté d'un moteur à courant continu (DC), d'un ensemble d'engrenages  permettant un contrôle plus précis des mouvements.
@@ -105,8 +108,5 @@ title: Les Composants
     Le servo peut tourner sur un angle limité généralement 180 degrés ou moins.
 
     En résumé, un servo moteur est un dispositif essentiel pour un contrôle précis de la direction de notre voiture.
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/433fb176-6166-40e2-983d-1432308893cb" alt="Servo moteur" style="max-width: 100%; height: auto;">
   </div>
 </div>
