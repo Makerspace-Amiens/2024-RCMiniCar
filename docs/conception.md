@@ -33,7 +33,7 @@ Nous avons choisi divers composants pour réaliser cette voiture RC. Tout d'abor
 
 <model-viewer id="viewer" alt="Modèle 3D des moteurs" src="images/moteurs RC.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
-<model-viewer id="viewer" alt="Modèle 3D du driver" src="images/DRIVER.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
+<model-viewer id="viewer" alt="Modèle 3D du driver" src="images/Driver.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
 <model-viewer id="viewer" alt="Modèle 3D de l'ESP32" src="images/ESP32.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
