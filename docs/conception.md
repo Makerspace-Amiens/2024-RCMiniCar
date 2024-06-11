@@ -23,7 +23,7 @@ En ce qui concerne la crémaillère, nous avons d'abord effectué des recherches
 
 Après avoir finalisé la conception, nous avons procédé à l'impression 3D de la crémaillère. Cependant, après plusieurs tentatives d'impression infructueuses, nous avons opté pour une impression en résine, beaucoup plus précise pour les petites pièces comme la nôtre. Cette technique nous a permis d'obtenir une crémaillère de haute qualité et adaptée à nos besoins spécifiques.
 
-<model-viewer id="viewer" alt="Modèle 3D du châssis" src="images/chassis3d.gltf" poster="/docs/images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
+<model-viewer id="viewer" alt="Modèle 3D de la crémaillère" src="images/AssemblageCremaillere.gltf" poster="/docs/images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
 
 
