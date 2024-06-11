@@ -1,1 +1,12 @@
+---
+layout: default
+nav_order: 15
+title: Objectifs du projet
+---
+---
+layout: default
+nav_order: 6
+title: Conception et prototypage
+---
 
+<model-viewer id="viewer" alt="Modèle 3D du chassis" src="" poster="../shared-assets/images/capture_niryo.jpg" shadow-intensity="1" camera-controls="" touch-action="pan-z" rotation="90 90 90" ar-status="not-presenting" data-dashlane-shadowhost="true" data-dashlane-observed="true"> </model-viewer
