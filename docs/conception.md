@@ -15,8 +15,7 @@ Ensuite, nous avons développé un châssis plus opérationnel, avec des emplace
 
 <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js"></script>
 
-<model-viewer id="viewer" alt="Modèle 3D de test" src="/images/Chassis.glb" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
-</model-viewer>
+<model-viewer id="viewer" alt="Modèle 3D du Chassis" src="/images/Chassis.gltf" shadow-intensity="1" camera-controls="" touch-action="pan-z" rotation="0 0 90" ar-status="not-presenting" data-dashlane-shadowhost="true" data-dashlane-observed="true"> </model-viewer>
 
 
 **Crémaillère**
