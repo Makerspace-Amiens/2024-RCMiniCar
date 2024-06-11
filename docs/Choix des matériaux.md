@@ -11,8 +11,8 @@ Voici un tableau des matériaux utilisable dans le Maker Space ainsi que leurs c
 
 | Matériaux | Outil à utiliser | Avantages | Inconvénients |  
 |:---    |:---    |:---   |:---    |
-| TPU | imprimante 3D | plastique mou / très peu onéreux / toute formes | impression souvent ratée |  
-|  PLA | imprimante 3D | très peu onéreux / toute formes | impression souvent ratée |  
+| TPU | imprimante 3D | plastique mou / très peu onéreux / toute formes | se dissout dans l'eau |  
+|  PLA | imprimante 3D | très peu onéreux / toute formes | sensible à la chaleur |  
 | Résine | imprimante UV | très précis / peu onéreux | casse facilement / long à imprimer |  
 | Bois | découpeur laser | très peu onéreux / très rapide | relativement limité au niveau de la forme | 
 
