@@ -12,6 +12,8 @@ Nous avons tout d’abord élaboré un plan sur papier pour estimer approximativ
 
 Ensuite, nous avons développé un châssis plus opérationnel, avec des emplacements spécifiques pour chaque composant et des moyens de fixation adaptés. Pour ce faire, nous avons réalisé un assemblage sur SolidWorks, incluant tous les composants modélisés en 3D, afin d'obtenir les dimensions exactes de chaque élément. Cette étape nous a permis d’assurer une précision optimale dans la disposition et la fixation de chaque composant.
 
+<model-viewer id="viewer" alt="Modèle 3D du chassis" src="/images/chassis.gltf" shadow-intensity="1" camera-controls="" touch-action="pan-z" rotation="90 90 90" ar-status="not-presenting" data-dashlane-shadowhost="true" data-dashlane-observed="true"> </model-viewer
+
 **Crémaillère**
   
 En ce qui concerne la crémaillère, nous avons d'abord effectué des recherches approfondies sur Internet pour comprendre les différents types de crémaillères utilisées dans les voitures réelles, le modélisme et les voitures radiocommandées. Ces informations nous ont permis de concevoir notre propre crémaillère sur SolidWorks.
