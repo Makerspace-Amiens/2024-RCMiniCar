@@ -31,7 +31,7 @@ Après avoir finalisé la conception, nous avons procédé à l'impression 3D de
 
 Nous avons choisi divers composants pour réaliser cette voiture RC. Tout d'abord, nous avons fait des recherches pour déterminer quels moteurs étaient les plus propices à notre projet. Finalement, nous avons décidé de prendre des motoréducteurs moins encombrants et moins puissants. Ensuite, nous avons pris un ESP32 pour faire la relation entre les composants et nous permettre de le coder et de le contrôler soit par WiFi ou Bluetooth. D'autre part, pour faire la relation entre l'ESP32 et les motoréducteurs, nous avons pris un driver LN298 qui permet de contrôler les deux moteurs continus. Il peut faire tourner les moteurs à une vitesse continue ou en PWM. De plus, il inclut des diodes pour protéger le circuit, des résistances de rappel et un dissipateur de chaleur en cas de forte charge. Enfin, pour la direction de la voiture, nous avons pris un servo-moteur qui contribue à faire glisser la crémaillère de droite vers la gauche.
 
-<model-viewer id="viewer" alt="Modèle 3D des moteurs" src="images/moteurs RC.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
+<model-viewer id="viewer" alt="Modèle 3D des moteurs" src="images/moteur RC.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
 <model-viewer id="viewer" alt="Modèle 3D du driver" src="images/Driver.gltf" poster="images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
