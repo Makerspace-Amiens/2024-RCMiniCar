@@ -12,11 +12,9 @@ Nous avons tout d’abord élaboré un plan sur papier pour estimer approximativ
 
 Ensuite, nous avons développé un châssis plus opérationnel, avec des emplacements spécifiques pour chaque composant et des moyens de fixation adaptés. Pour ce faire, nous avons réalisé un assemblage sur SolidWorks, incluant tous les composants modélisés en 3D, afin d'obtenir les dimensions exactes de chaque élément. Cette étape nous a permis d’assurer une précision optimale dans la disposition et la fixation de chaque composant.
 
-<!-- Include the model-viewer library -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<!-- Model viewer -->
-<model-viewer id="viewer" alt="Modèle 3D du châssis" src="docs/images/chassis3d.gltf" poster="/docs/images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
+<model-viewer id="viewer" alt="Modèle 3D du châssis" src="images/chassis3d.gltf" poster="/docs/images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
 
 <model-viewer id="viewer" alt="Modèle 3D de test" src="https://modelviewer.dev/shared-assets/models/Astronaut.glb" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
