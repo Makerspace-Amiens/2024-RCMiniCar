@@ -73,6 +73,4 @@ Fournir une vue d'ensemble et des spécifications détaillées pour la conceptio
 
 - **Rapport de Projet :** Analyse des performances, retour sur le projet, améliorations, défauts.
 
-## Existant
 
-(Le contenu pour cette section doit être ajouté)
