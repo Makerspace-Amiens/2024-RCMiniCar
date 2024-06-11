@@ -16,7 +16,7 @@ Ensuite, nous avons développé un châssis plus opérationnel, avec des emplace
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <!-- Model viewer -->
-<model-viewer id="viewer" alt="Modèle 3D du châssis" src="/docs/images/chassis3d.gltf" poster="/docs/images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
+<model-viewer id="viewer" alt="Modèle 3D du châssis" src="docs/images/chassis3d.gltf" poster="/docs/images/capture.jpg" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
 </model-viewer>
 
 <model-viewer id="viewer" alt="Modèle 3D de test" src="https://modelviewer.dev/shared-assets/models/Astronaut.glb" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
