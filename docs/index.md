@@ -8,7 +8,8 @@ title: Accueil
 
 Bienvenue dans la documentation du projet Voiture RC. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-![image](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/158062714/3be488f0-8227-4bb7-93fd-3329323fd735)
+![image](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/901d1bf4-473d-4432-9daf-3ecadbbe8d12)
+
 
 ## À propos du Projet
 
