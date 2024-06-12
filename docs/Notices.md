@@ -1,6 +1,11 @@
-
+layout: default
+nav_order: 10
+title: Notices
+has_children: true
+---
 
 # Notice de Création d'une Voiture RC
+
 
 ## Étape 1 : Téléchargement des Pièces 3D
 Téléchargement des fichiers STL :
