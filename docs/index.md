@@ -8,6 +8,9 @@ title: Accueil
 
 Bienvenue dans la documentation du projet Voiture RC. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<model-viewer id="viewer" alt="Modèle 3D Voiture RC" src="images/.gltf" poster="" shadow-intensity="1" camera-controls touch-action="pan-y" style="width: 100%; height: 500px;">
+</model-viewer>
 ![image](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/901d1bf4-473d-4432-9daf-3ecadbbe8d12)
 
 
