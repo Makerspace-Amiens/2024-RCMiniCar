@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: Code
+parent: Notices
+nav_order: 1
+---
  # Code 
 
 ```
