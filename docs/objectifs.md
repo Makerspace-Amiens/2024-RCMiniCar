@@ -55,7 +55,7 @@ Ainsi, le projet de création d'une voiture RC représente une opportunité pass
 - **Système de Propulsion :** 2 motoréducteurs de 3V, 500 RPM, vitesse de 1,5 m/s.
 - **Contrôle et Communication :** Carte ESP32, application mobile via Bluetooth ou WiFi pour les réglages avancés sur smartphone. Utilisation d'un driver LN298.
 - **Alimentation :** Batterie LiPo 7.4V 5000mAh, autonomie de 30 minutes, recharge rapide en 1 heure.
-- **Suspension et Direction :** Suspension indépendante, direction assistée électroniquement par un servo-moteur.
+- **Direction :** Direction assistée électroniquement par un servo-moteur fesant bouger une crémaillère.
 
 ### 4. Critères de Conception
 
