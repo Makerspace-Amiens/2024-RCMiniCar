@@ -38,10 +38,12 @@ La deuxième étape consiste à imprimer les différents éléments de la créma
 
 Vous pouvez modifier les diamètres inttérieurs des des axes en fonction du diamètre exterieur de vos roulements.
 
-![rampe cr](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/0c5be8dc-9037-4cb7-bb3f-c28707bf138d)
-![coude](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/90a9c107-36cd-4fe9-9387-1200802588cd)
-![axe](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/a5566665-74a0-47ea-8d21-d0cd39aa2eda)
-![engrenage](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/e3bcd6c5-8b4a-44af-9be4-eb96af6c1717)
+<p align="center">
+  <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/0c5be8dc-9037-4cb7-bb3f-c28707bf138d" alt="rampe cr" width="200"/>
+  <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/90a9c107-36cd-4fe9-9387-1200802588cd" alt="coude" width="200"/>
+  <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/a5566665-74a0-47ea-8d21-d0cd39aa2eda" alt="axe" width="200"/>
+  <img src="https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/e3bcd6c5-8b4a-44af-9be4-eb96af6c1717" alt="engrenage" width="200"/>
+</p>
 
 
 #### Impression des roues
