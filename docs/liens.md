@@ -6,4 +6,4 @@ nav_order: 2
 ---
  # Liens des pièces
 
-{% include image-hover.html text="Texte" link="lien d'image" %}
+{% include image-hover.html text="Chassis" link="images/Chassis.STL" %}
