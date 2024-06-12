@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Châssis
 
- - [Châssis](docs/download/Chassis.STL)
+ - [Châssis]([docs/download/Chassis.STL](https://github.com/Makerspace-Amiens/2024-RCMiniCar/blob/main/docs/download/Chassis.STL))
 
 ## Composants
 
