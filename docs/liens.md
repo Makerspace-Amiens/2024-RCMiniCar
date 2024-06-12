@@ -9,30 +9,30 @@ nav_order: 2
 
 ## Châssis
 
- - [Châssis](docs/download/Chassis.STL))
+ - [Châssis](download/Chassis.STL))
 
 ## Composants
 
-- [Driver](/Download/Driver.STL)
-- [ESP32](/Download/ESP32.STL)
-- [Moteur](/Download/moteurRC.STL)
-- [Servomoteur](/Download/Servo.STL)
+- [Driver](download/Driver.STL)
+- [ESP32](download/ESP32.STL)
+- [Moteur](download/moteurRC.STL)
+- [Servomoteur](download/Servo.STL)
 
 ## Crémaillère
 
-- [Axe droit Crémaillère](../Download/axedroit.STL)
-- [Axe gauche Crémaillère](../Download/axegauche.STL)
-- [Coude Crémaillère](../Download/coude.STL)
-- [Engrenage Crémaillère](../Download/engrenage.STL)
-- [Rampe crantée Crémaillère](../Download/Rampeengrenage.STL)
+- [Axe droit Crémaillère](download/axedroit.STL)
+- [Axe gauche Crémaillère](download/axegauche.STL)
+- [Coude Crémaillère](download/coude.STL)
+- [Engrenage Crémaillère](download/engrenage.STL)
+- [Rampe crantée Crémaillère](download/Rampeengrenage.STL)
 
 ## Glissière
 
-- [Glissière fixe](../Download/glissierefixe.STL)
-- [Rail Glissière](../Download/railglissiere.STL)
+- [Glissière fixe](download/glissierefixe.STL)
+- [Rail Glissière](download/railglissiere.STL)
 
 ## Roue
 
-- [Roue arrière](../Download/rouearriere.STL)
-- [Roue avant](../Download/roueavant.STL)
-- [Pneu](../Download/contourroue.STL)
+- [Roue arrière](download/rouearriere.STL)
+- [Roue avant](download/roueavant.STL)
+- [Pneu](download/contourroue.STL)
