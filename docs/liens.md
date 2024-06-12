@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pièces STL
-parent: Notices
+parent: Notice de Construction
 nav_order: 2
 ---
  # Liens des pièces
