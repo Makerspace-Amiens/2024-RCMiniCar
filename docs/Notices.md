@@ -1,105 +1,121 @@
 ---
 layout: default
 nav_order: 10
-title: Notice
+title: Notice de Construction de la Voiture RC
 has_children: true
 ---
 
 # Notice de Construction de la Voiture RC
 
 ## 1. Préparation des Matériaux
-### Matériaux nécessaires :
-Pour la réalisation de cette voitute RC il va imperativement vous falloir une Imprimate 3D ansi que des bobines de PLA et de TPU pour pouvoir imprimer les pieces neccessare a la creation de celle-ci.
-Pour la fixation de certaine pieces il va aussi falloir vous munir de tournevis, filde fer, rondelle,roulement boulon et de la colle forte.
+
+### Matériaux nécessaires
+Pour la réalisation de cette voiture RC, il vous faudra impérativement :
+
+- Une imprimante 3D
+- Des bobines de PLA et de TPU pour imprimer les pièces nécessaires
+- Tournevis
+- Fil de fer
+- Rondelles
+- Roulements
+- Boulons
+- Colle forte
+
+![Image des matériaux nécessaires](path/to/image)
 
 ## 2. Conception et Prototypage
-### Téléchargement des fichiers :
-Pour réaliser la voiture RC la premiere étape est d'imprimer les chassis qui permettra de poser, de fixer les differents éléments de la voiture.
-Pour cela voici le fichier en stl, mais libre a vous de modifier celui ci a votre convenance pour de potentiel amélioration, et si l'envie vous prend de faire le chassis vous meme de A à Z voici aussi les fichier stl des composants pour pouvoir faire votre chassis aux dimension de ceux-xi:
-fichiers stl
 
-La seconde etape consiste a imprimer les differents éléments de la crémaillere de direction qui permettra d'orienter les roues avant en fonction de la direction voulu.
-Pour cela il vous faudra imprimer uen fois la rampe cranté, une fois l'engrenage, deux coude et deux axe de direction, vous pouvez modifeir les diametre des axes en fonction du diametre interireur de vos roulements. La crémaillère se deplace grace a l'engrenage qui entraine la rampe cranté, mais celle glisse sur une glissière de la marque igus, vous pouvais donc acheter une glissière sur le site igus ou alors imprimer la votre grace au fichier stl fourni:
-fichier stl
+#### Impression du châssis
+La première étape consiste à imprimer le châssis qui permettra de poser et fixer les différents éléments de la voiture.
 
-Pour finir vous pouvez imprimer les roues qui sont separer en deux partie, la gente qui est en TPU pour une tenue rigide et le pneu en TPU pour une meilleure aderence au sol, il ya a deux gente differente celle qui vont a l'arriere de la voiture sure les axes des moteurs et deux a l'avant qui permettent de se mettre sur les roulements de la cremaillere, vous pouvez d'ailleur adapter le dimatre du trou interieur de la roue en fonction de la taille de vos roulements.
-ficher stl
+![Image du châssis imprimé](path/to/image)
 
-## 3. Assemblage du Châssis et de la crémaillère
-Une fois tous les elements imprimer et nettoyer nous allons pouvoir passer a l'assemblage de tout cela, nous allons tout d'abord commencer par fixer les differents elements de la cremaillere entre eux a l'aide de fil de fer que vous couperez et plierais au dimension voulue, il permettent une fixation solide et une bonne rotation des differents elements de la cremaillere. nous allons ensuite coller la rampe cranté au centre de la glissiere
-(imprimer ou acheter sur le site igus) prealablement fixer sur le chassis a l'aide des deux tous prevue a cette effet a l'aide de boulon. Vous pouvez ensuite venir fixer vos deux roulement sur les axes de la cremaillere. Ensuite il ne reste plus qu'a mettre les roues sur les roulements.
+#### Impression de la crémaillère de direction
+La deuxième étape consiste à imprimer les différents éléments de la crémaillère de direction.
 
-## Étape 2 : Installation des Composants sur le Châssis
+- Une rampe crantée
+- Un engrenage
+- Deux coudes
+- Deux axes de direction
 
-**Assemblage du châssis :**
+Vous pouvez modifier les diamètres inttérieurs des des axes en fonction du diamètre exterieur de vos roulements.
 
-Installez la crémaillère et assurez-vous qu'elle est bien en place et fonctionne correctement.
-Fixer la crémaillère à l'aide de vises et d'écrous
 
-**Montage des motoréducteurs :**
+![Image de la crémaillère de direction](path/to/image)
 
-Placez les moteurs DC dans les supports prévus à cet effet sur le châssis.
-Fixez les moteurs solidement pour éviter qu'ils ne bougent pendant le fonctionnement.
+#### Impression des roues
+Pour finir, vous pouvez imprimer les roues, composées de deux parties : la jante en PLA et le pneu en TPU.
 
-**Installation du module ESP32 :**
+- Deux jantes pour l'arrière (pour les axes des moteurs)
+- Deux jantes pour l'avant (pour les roulements de la crémaillère)
 
-Montez le module ESP32 sur le châssis.
-Placez l'ESP32 sur son support et fixez-le.
+![Image des roues](path/to/image)
 
-**Installation du module L298N :**
+## 3. Assemblage du Châssis et de la Crémaillère
 
-Prendre le module L298N sur le châssis.
-Placez le module L298N sur son support et fixez-le.
+### Assemblage de la crémaillère
+1. Fixez les différents éléments de la crémaillère entre eux à l'aide de fil de fer.
+2. Collez la rampe crantée au centre de la glissière (achetée ou imprimée).
+3. Fixez la glissière sur le châssis à l'aide de boulons.
+4. Fixez vos deux roulements sur les axes de la crémaillère.
+5. Mettez les roues sur les roulements.
 
-**Installation du servo-moteur :**
+![Image de l'assemblage de la crémaillère](path/to/image)
 
-Placer le servo-moteur sur son support créer sur le chassis.
-Mettre l'écrou sur le palonier et placer installer l'écrou sur la denture de la crémaillère.
+## 3. Placement des composants sur le Châssis 
 
-## Étape 3 : Connectique entre les Composants
+### Montage des motoréducteurs
+1. Placez les moteurs DC dans les supports prévus à cet effet sur le châssis.
+2. Fixez les moteurs solidement pour éviter qu'ils ne bougent pendant le fonctionnement.
 
-**Connexion du module L298N aux moteurs :**
+### Installation du module ESP32
+1. Montez le module ESP32 sur le châssis.
 
+### Installation du module L298N
+1. Montez le module L298N sur le châssis.
+
+### Installation du servo-moteur
+1. Placez le servo-moteur sur son support créé sur le châssis.
+2. Fixez l'écrou sur le palonnier et installez l'écrou sur la denture de la crémaillère.
+
+![Image de l'assemblage final](path/to/image)
+
+## 5. Connectique entre les Composants
+
+### Connexion du module L298N aux moteurs
 Connectez les bornes de sortie du module L298N aux bornes des moteurs DC (OUT1 et OUT2 pour un moteur, OUT3 et OUT4 pour l'autre).
 
-**Connexion du module ESP32 au module L298N :**
-
-Connectez les pins IN1, IN2, IN3, et IN4 du module L298N aux GPIOs appropriés de l'ESP32.
+### Connexion du module ESP32 au module L298N
+Connectez les pins IN1, IN2, IN3 et IN4 du module L298N aux GPIOs appropriés de l'ESP32.
 Connectez les pins ENA et ENB du module L298N aux GPIOs de l'ESP32 pour contrôler la vitesse des moteurs.
 
-**Connexion du servo moteur :**
-
-Connectez le servo moteur à un autre GPIO de l'ESP32.
+### Connexion du servo-moteur
+Connectez le servo-moteur à un autre GPIO de l'ESP32.
 Connectez le fil de signal du servo au GPIO choisi, et les fils d'alimentation et de masse aux pins 3V3 et GND de l'ESP32.
 
-**Alimentation :**
-
+### Alimentation
 Connectez une source d'alimentation appropriée au module L298N pour alimenter les moteurs (Vs=7,5V).
 Assurez-vous que l'ESP32 est alimenté correctement via le module L298N sur l'entrée (Vss=5V).
 
+![Image du câblage des composants](path/to/image)
 
-## Étape 4 : Programmation de l'ESP32 avec Dabble
+## 6. Programmation de l'ESP32 avec Dabble
 
-Programmation de l'ESP32 :
+### Programmation de l'ESP32
+1. Téléchargez et installez l'IDE Arduino.
+2. Installez les bibliothèques nécessaires pour l'ESP32 et Dabble.
 
-Téléchargez et installez l'IDE Arduino si ce n'est pas déjà fait.
-Installez les bibliothèques nécessaires pour l'ESP32 et Dabble.
-Allez dans la rubrique code pour accéder au programme Arduino.
+### Téléversement du code
+1. Connectez l'ESP32 à votre ordinateur via un câble USB.
+2. Sélectionnez le bon port COM dans l'IDE Arduino et téléversez le code.
 
+### Installation de Dabble
+1. Téléchargez l'application Dabble sur votre smartphone depuis le Google Play Store ou l'App Store.
+2. Suivez les instructions pour installer et configurer l'application.
 
-Téléversement du code :
+### Test et calibration
+1. Allumez la voiture RC et ouvrez l'application Dabble.
+2. Testez les contrôles pour vous assurer que les moteurs et le servo fonctionnent correctement.
+3. Ajustez le code si nécessaire pour améliorer la réactivité et la précision des contrôles.
 
-Connectez l'ESP32 à votre ordinateur via un câble USB.
-Sélectionnez le bon port COM dans l'IDE Arduino et téléversez le code.
-
-Installation de Dabble :
-
-Téléchargez l'application Dabble sur votre smartphone depuis le Google Play Store ou l'App Store.
-Suivez les instructions pour installer et configurer l'application.
-
-Test et calibration :
-
-Allumez la voiture RC et ouvrez l'application Dabble.
-Testez les contrôles pour vous assurer que les moteurs et le servo fonctionnent correctement.
-Ajustez le code si nécessaire pour améliorer la réactivité et la précision des contrôles.
-
+![Image du test et calibration](path/to/image)
