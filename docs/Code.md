@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Code
-parent: Notices
+parent: Notice de Construction
 nav_order: 1
 ---
  # Code 
