@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 10
+nav_order: 8
 title: Notice de Construction de la Voiture RC
 has_children: true
 ---
