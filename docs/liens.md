@@ -9,14 +9,14 @@ nav_order: 2
 
 ## Châssis
 
-[Châssis](../Download/Chassis.STL)
+ - [Châssis](/Download/Chassis.STL)
 
 ## Composants
 
-- [Driver](../Download/Driver.STL)
-- [ESP32](../Download/ESP32.STL)
-- [Moteur](../Download/moteurRC.STL)
-- [Servomoteur](../Download/Servo.STL)
+- [Driver](/Download/Driver.STL)
+- [ESP32](/Download/ESP32.STL)
+- [Moteur](/Download/moteurRC.STL)
+- [Servomoteur](/Download/Servo.STL)
 
 ## Crémaillère
 
