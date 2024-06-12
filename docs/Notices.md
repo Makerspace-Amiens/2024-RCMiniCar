@@ -26,7 +26,7 @@ Pour la réalisation de cette voiture RC, il vous faudra impérativement :
 #### Impression du châssis
 La première étape consiste à imprimer le châssis qui permettra de poser et fixer les différents éléments de la voiture.
 
-![Image du châssis imprimé](path/to/image)
+![chassis](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/4c704abc-9731-4fd7-9e0f-64920991eab5)
 
 #### Impression de la crémaillère de direction
 La deuxième étape consiste à imprimer les différents éléments de la crémaillère de direction.
@@ -38,8 +38,11 @@ La deuxième étape consiste à imprimer les différents éléments de la créma
 
 Vous pouvez modifier les diamètres inttérieurs des des axes en fonction du diamètre exterieur de vos roulements.
 
+![rampe cr](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/0c5be8dc-9037-4cb7-bb3f-c28707bf138d)
+![coude](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/90a9c107-36cd-4fe9-9387-1200802588cd)
+![axe](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/a5566665-74a0-47ea-8d21-d0cd39aa2eda)
+![engrenage](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/e3bcd6c5-8b4a-44af-9be4-eb96af6c1717)
 
-![Image de la crémaillère de direction](path/to/image)
 
 #### Impression des roues
 Pour finir, vous pouvez imprimer les roues, composées de deux parties : la jante en PLA et le pneu en TPU.
@@ -47,7 +50,7 @@ Pour finir, vous pouvez imprimer les roues, composées de deux parties : la jant
 - Deux jantes pour l'arrière (pour les axes des moteurs)
 - Deux jantes pour l'avant (pour les roulements de la crémaillère)
 
-![Image des roues](path/to/image)
+![roue](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/8065fe86-970f-45b6-85d1-6cd037d81a4d)
 
 ## 3. Assemblage du Châssis et de la Crémaillère
 
@@ -58,7 +61,7 @@ Pour finir, vous pouvez imprimer les roues, composées de deux parties : la jant
 4. Fixez vos deux roulements sur les axes de la crémaillère.
 5. Mettez les roues sur les roulements.
 
-![Image de l'assemblage de la crémaillère](path/to/image)
+![cremaillere](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/6f7fb151-9823-4363-80aa-48ab4e3c1483)
 
 ## 3. Placement des composants sur le Châssis 
 
@@ -76,7 +79,8 @@ Pour finir, vous pouvez imprimer les roues, composées de deux parties : la jant
 1. Placez le servo-moteur sur son support créé sur le châssis.
 2. Fixez l'écrou sur le palonnier et installez l'écrou sur la denture de la crémaillère.
 
-![Image de l'assemblage final](path/to/image)
+![voiture](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/433f8bb3-1545-49fa-95b8-c67c50ce1d51)
+
 
 ## 5. Connectique entre les Composants
 
@@ -95,7 +99,7 @@ Connectez le fil de signal du servo au GPIO choisi, et les fils d'alimentation e
 Connectez une source d'alimentation appropriée au module L298N pour alimenter les moteurs (Vs=7,5V).
 Assurez-vous que l'ESP32 est alimenté correctement via le module L298N sur l'entrée (Vss=5V).
 
-![Image du câblage des composants](path/to/image)
+![cablage](https://github.com/Makerspace-Amiens/2024-RCMiniCar/assets/119036120/3f7cbb74-5b04-45f9-9f49-4e2c18df5542)
 
 ## 6. Programmation de l'ESP32 avec Dabble
 
