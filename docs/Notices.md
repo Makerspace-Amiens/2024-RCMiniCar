@@ -21,8 +21,6 @@ Pour la réalisation de cette voiture RC, il vous faudra impérativement :
 - Boulons
 - Colle forte
 
-![Image des matériaux nécessaires](path/to/image)
-
 ## 2. Conception et Prototypage
 
 #### Impression du châssis
@@ -113,9 +111,8 @@ Assurez-vous que l'ESP32 est alimenté correctement via le module L298N sur l'en
 1. Téléchargez l'application Dabble sur votre smartphone depuis le Google Play Store ou l'App Store.
 2. Suivez les instructions pour installer et configurer l'application.
 
-### Test et calibration
+## 7. Test et calibration
 1. Allumez la voiture RC et ouvrez l'application Dabble.
 2. Testez les contrôles pour vous assurer que les moteurs et le servo fonctionnent correctement.
 3. Ajustez le code si nécessaire pour améliorer la réactivité et la précision des contrôles.
 
-![Image du test et calibration](path/to/image)
