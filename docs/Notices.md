@@ -1,7 +1,7 @@
 ---
 layout: default
 nav_order: 8
-title: Notice de Construction de la Voiture RC
+title: Notice de Construction 
 has_children: true
 ---
 
