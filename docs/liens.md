@@ -6,9 +6,9 @@ nav_order: 2
 ---
  # Liens des pièces
 
-[Chassis](images/Chassis.STL)
-[Chassis](images/Driver.STL)
-[Chassis](images/ESP32.STL)
+[Chassis](Liens téléchargement/Chassis.STL)
+[Chassis](Liens téléchargement/Driver.STL)
+[Chassis](Liens téléchargement/ESP32.STL)
 [Chassis](images/Rampe pour ngrenage.STL)
 [Chassis](images/Servo.STL)
 [Chassis](images/Chassis.STL)
