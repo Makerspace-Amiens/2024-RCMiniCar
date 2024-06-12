@@ -10,15 +10,15 @@ Nous sommes trois étudiants à UniLaSalle Amiens en première année de cycle i
 
 <div class="grid-container" style="display: flex; justify-content: space-around;">
     <div style="text-align: center;">
-        <img src="images/Jules.jpg" alt="Photo Jules" class="rounded-image" style="width: 150px; height: 150px;">
+        <img src="images/Jules.jpg" alt="Photo Jules" class="rounded-image" style="width: 150px; height: 150px; border-radius: 50%;">
         <p class="image-caption">Jules Mailly</p>
     </div>
     <div style="text-align: center;">
-        <img src="images/Enguerrand.jpg" alt="Photo Enguerrand" class="rounded-image" style="width: 150px; height: 150px;">
+        <img src="images/Enguerrand.jpg" alt="Photo Enguerrand" class="rounded-image" style="width: 150px; height: 150px; border-radius: 50%;">
         <p class="image-caption">Enguerrand CUIF</p>
     </div>
     <div style="text-align: center;">
-        <img src="images/Thomas.jpg" alt="Photo Thomas" class="rounded-image" style="width: 150px; height: 150px;">
+        <img src="images/Thomas.jpg" alt="Photo Thomas" class="rounded-image" style="width: 150px; height: 150px; border-radius: 50%;">
         <p class="image-caption">Thomas LE PAPE</p>
     </div>
 </div>
