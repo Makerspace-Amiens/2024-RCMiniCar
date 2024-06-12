@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Châssis
 
- - [Châssis](download/Chassis.STL))
+ - [Châssis](download/Chassis.STL)
 
 ## Composants
 
