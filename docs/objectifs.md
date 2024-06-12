@@ -29,18 +29,25 @@ Ainsi, le projet de création d'une voiture RC représente une opportunité pass
 
 ## Cahier des Charges
 
-### 1. Introduction
+-Concevoir une voiture RC fonctionnelle​
 
-Fournir une vue d'ensemble et des spécifications détaillées pour la conception et la réalisation du projet "Voiture RC".
+-Petite/moyenne taille (+-Longueur de 20cm, largeur de 10cm)​
 
-### 2. Description du Projet
+-Choisir des composants adaptés aux attentes de la voiture :​
 
-**Objectifs :**
+-Petite/moyenne​
 
-- Concevoir une voiture RC fonctionnelle.
-- Utiliser des logiciels de conception 3D pour créer le châssis de la voiture.
-- Intégrer les composants au châssis.
-- Piloter la voiture avec un smartphone.
+-Légère​
+
+-Vitesse de 5 km/h​
+
+-Contrôlable à distance​
+
+-intégrer les composants au châssis​
+
+-piloter la voiture avec son smartphone​
+
+-Budget de 150 € pour le développement complet du projet​
 
 ### 3. Spécifications Techniques
 
