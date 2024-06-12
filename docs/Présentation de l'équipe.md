@@ -62,6 +62,8 @@ Nous sommes trois étudiants à UniLaSalle Amiens en première année de cycle i
 
 **répartition des tâches**
 
-Thomas Le Pape : réalisation du programme pour radio télécommandée la voiture 
-Jules Mailly : réalisation de la modélisation 3D du châssis de la voiture 
-Enguerrand Cuif : réalisation de la crémaillère de direction de la voiture 
+*Thomas Le Pape* : réalisation du programme pour radio télécommandée la voiture 
+
+*Jules Mailly* : réalisation de la modélisation 3D du châssis de la voiture 
+
+*Enguerrand Cuif* : réalisation de la crémaillère de direction de la voiture 
